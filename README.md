@@ -1,3 +1,12 @@
 # How-to-learn
 
-This project is a website about various methods of effective training. It was developed using the BEM methodology. It contains examples of using flex containers, animations, pseudo-classes, and so on.
+## Описание
+Данный проект представляет собой вебсайт о различных методах и техниках для эффиктивного обучения чему-либо.
+
+## Какие технологии используются
+* Flex-контейнеры
+* CSS анимации
+* Псевдо-классы
+* iframes
+
+[Ссылка на сайт](https://dgash2201.github.io/how-to-learn)
